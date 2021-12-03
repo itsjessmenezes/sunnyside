@@ -3,7 +3,7 @@
 
 Layout do projeto retirado da pagina [Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef)
 
-###Dicas Importantes
+**Dicas Importantes**
 Para começar a trabalhar ou visualizar este projeto você precisará executar alguns comandos, mas isso é somente na primeira vez.
 
 1. Realizar o fork do repositório
